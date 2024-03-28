@@ -1,0 +1,4 @@
+github.com/deemount/gobpmnModels v0.0.0-20240323202113-62f23350e68e h1:YOUPd7R1qRy35g30d7j8j4oZB2O4BYZmsLBSYM/wiCo=
+github.com/deemount/gobpmnModels v0.0.0-20240323202113-62f23350e68e/go.mod h1:heUauQw1Am5twPG32FQVdr6fFtfLE8wNkADX44YFSXA=
+github.com/deemount/gobpmnTypes v0.0.0-20240315111519-43046016ad9f h1:0gux6KtY8XgrN/L9tiZ7B+wx3th7x4hBYu1+wtUkHYY=
+github.com/deemount/gobpmnTypes v0.0.0-20240315111519-43046016ad9f/go.mod h1:Dw7Jo8/vr0DzNHNMnbwQu0JSMWm2klNdo00rcxHCzJs=
