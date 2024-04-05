@@ -1,6 +1,6 @@
 # gobpmnReader
 
-**Note:** This repository is under construction
+gobpmnReader is a experimental tool for reading business process models in different formats.
 
 ## Wiki
 
@@ -30,3 +30,4 @@ In addition, a repository with available applications has now been created. Exam
 + [gobpmnCounter](https://github.com/deemount/gobpmnCounter)
 + [gobpmnHash](https://github.com/deemount/gobpmnHash)
 + [gobpmnReflection](https://github.com/deemount/gobpmnReflection)
++ [gobpmnEngine](https://github.com/deemount/gobpmnEngine)
