@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" id="Definitions_9e83e77b" targetNamespace="http://bpmn.io/schema/bpmn">
+   <bpmn:process id="Process_59723771" isExecutable="true">
+     <bpmn:startEvent id="StartEvent_ec34b1d4" name="Begin of Process">
+       <bpmn:outgoing>Flow_a511a3d1</bpmn:outgoing>
+     </bpmn:startEvent>
+     <bpmn:endEvent id="Event_e2eb2b4c" name="End of Process">
+       <bpmn:incoming>Flow_a74c3213</bpmn:incoming>
+     </bpmn:endEvent>
+     <bpmn:task id="Activity_a511a3d1" name="Task">
+       <bpmn:incoming>Flow_83a27261</bpmn:incoming>
+       <bpmn:outgoing>Flow_e2eb2b4c</bpmn:outgoing>
+     </bpmn:task>
+     <bpmn:sequenceFlow id="Flow_83a27261" sourceRef="StartEvent_ec34b1d4" targetRef="Activity_a511a3d1"></bpmn:sequenceFlow>
+     <bpmn:sequenceFlow id="Flow_a74c3213" sourceRef="Activity_a511a3d1" targetRef="Event_e2eb2b4c"></bpmn:sequenceFlow>
+   </bpmn:process>
+ </bpmn:definitions>

@@ -24,7 +24,7 @@
 
 /*
 
-gobpmnReader is a experimental tool for reading business process models.
+gobpmnReader is a experimental tool for reading business process models in different formats.
 
 */
 
